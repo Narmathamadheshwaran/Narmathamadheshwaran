@@ -11,8 +11,8 @@
 * 🌱 Exploring MLOps, Big Data, and Cloud
 * ⚡ Fun fact: I love coding as much as customizing pastries 🍩✨
 
----
+## 🌐 Socials:
+
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge" />](https://www.instagram.com/its._.narmatha33/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmatha-madheshwaran-53907425b/)
 
----
