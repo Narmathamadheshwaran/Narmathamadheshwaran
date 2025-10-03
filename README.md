@@ -1,6 +1,5 @@
 # Hi, I'm Narmatha Madheswaran! 👋
 
----
 
 ## 💡 About Me:
 
